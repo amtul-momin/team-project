@@ -4,3 +4,5 @@ def feature1():
     print("New feature 1 added.")
 
 feature1()
+
+print("Temporary implementation.")
